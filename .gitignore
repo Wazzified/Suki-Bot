@@ -1,0 +1,20 @@
+# File rahasia
+.env
+
+# Virtual environment Python
+env/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Database SQLite
+*.db
+
+# VS Code
+.vscode/
+
+# Log files
+*.log
